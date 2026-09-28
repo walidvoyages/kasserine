@@ -1,0 +1,1 @@
+Walid Voyages Kasserine — même template que Sfax. Upload index.html et kasserine.jpeg directement à la racine du repository GitHub.
